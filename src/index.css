@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'testFont';
+    src: url("./testFont.ttf") format('ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+#root {
+    color: blue;
+    font-family: 'testFont';
+}
